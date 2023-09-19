@@ -5,21 +5,15 @@ A futásidőket különböző ábécéméretek mellett is kipróbáltam:
 - 4: mivel a DNS szekvencia 4-féle nukleobázis (citozin (C), guanin (G), adenin (A), timin (T)) sorozata
 - 26: az angol ábécé
 
-<!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
+- [Egy mintát kereső algoritmusok](#egy-mintát-kereső-algoritmusok)
+  * [2-elemű ábécé](#2-elemű-ábécé)
+  * [4-elemű ábécé](#4-elemű-ábécé)
+  * [26-elemű ábécé](#26-elemű-ábécé)
+- [Több mintát kereső algoritmusok](#több-mintát-kereső-algoritmusok)
+  * [2-elemű ábécé](#2-elemű-ábécé-1)
+  * [4-elemű ábécé](#4-elemű-ábécé-1)
+  * [26-elemű ábécé](#26-elemű-ábécé-1)
 
-- [Egy mintát kereső algoritmusok](#egy-mintát-keres-algoritmusok)
-  * [2-elemű ábécé](#2-elem-ábécé)
-  * [4-elemű ábécé](#4-elem-ábécé)
-  * [26-elemű ábécé](#26-elem-ábécé)
-- [Több mintát kereső algoritmusok](#több-mintát-keres-algoritmusok)
-  * [2-elemű ábécé](#2-elem-ábécé-1)
-  * [4-elemű ábécé](#4-elem-ábécé-1)
-  * [26-elemű ábécé](#26-elem-ábécé-1)
-- [And a table of contents](#and-a-table-of-contents)
-- [On   the right](#on---the-right)
-- [Use the [TOC]](#use-the-toc)
-
-<!-- TOC end -->
 
 ## Egy mintát kereső algoritmusok
 <p align="center">
@@ -90,17 +84,3 @@ A futásidőket különböző ábécéméretek mellett is kipróbáltam:
 <p align="center">
   <img src="./peldak/tobb_mintas_abrak/m_100__Sigma_26__k_70.svg" width=1500>
 </p>
-
-
-
-## And a table of contents
-
-will be generated
-
-## On   the right
-
-side of this page.
-
-## Use the [TOC]
-
-placeholder to control where the TOC will appear
