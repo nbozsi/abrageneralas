@@ -7,4 +7,5 @@ A futásidőket különböző ábécéméretek mellett is kipróbáltam:
 
 ## Egy mintát kereső algoritmusok
 ### 2-elemű ábécé
-![alt](https://raw.githubusercontent.com/nbozsi/abrageneralas/main/peldak/n30000__Sigma2.svg)
+![Alt text](./peldak/n30000__Sigma2.svg)
+<img src="./peldak/n30000__Sigma2.svg">
