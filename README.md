@@ -13,6 +13,7 @@ A futásidőket különböző ábécéméretek mellett is kipróbáltam:
 <p align="center">
   <img src="./peldak/m100__Sigma2.svg" width=1500>
 </p>
+
 ### 4-elemű ábécé
 <p align="center">
   <img src="./peldak/n30000__Sigma4.svg" width=1500>
@@ -20,6 +21,7 @@ A futásidőket különböző ábécéméretek mellett is kipróbáltam:
 <p align="center">
   <img src="./peldak/m100__Sigma4.svg" width=1500>
 </p>
+
 ### 26-elemű ábécé
 <p align="center">
   <img src="./peldak/n30000__Sigma26.svg" width=1500>
