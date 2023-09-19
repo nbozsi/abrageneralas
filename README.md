@@ -6,6 +6,11 @@ A futásidőket különböző ábécéméretek mellett is kipróbáltam:
 - 26: az angol ábécé
 
 ## Egy mintát kereső algoritmusok
+<p align="center">
+  <img src="./peldak/n30000__m50.svg" width=1500>
+  Az algoritmusok futásideje az ábécéméret függvényében.
+</p>
+
 ### 2-elemű ábécé
 <p align="center">
   <img src="./peldak/n30000__Sigma2.svg" width=1500>
