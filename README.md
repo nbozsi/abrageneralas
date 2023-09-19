@@ -7,4 +7,6 @@ A futásidőket különböző ábécéméretek mellett is kipróbáltam:
 
 ## Egy mintát kereső algoritmusok
 ### 2-elemű ábécé
+<p align="center">
 <img src="./peldak/n30000__Sigma2.svg" width=1500>
+<\p>
