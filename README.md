@@ -1,5 +1,5 @@
 # Ábragenerálas
-Automatizált ábragenerálás a szakdolgozatomhoz készült implementációk futásidejéről.
+Automatizált ábragenerálás a [szakdolgozatom](https://www.math.elte.hu/thesisupload/thesisfiles/2023bsc_alkmat3y-ijakt3.pdf)hoz készült implementációk futásidejéről.
 A futásidőket 3-féle ábécéméret mellett teszteltem, amiket a gyakorlati alkalmazások miatt választottam:
 * **2**: 🔟[bitek](https://en.wikipedia.org/wiki/Bit),
 * **4**: 🧬[DNS](https://en.wikipedia.org/wiki/Nucleic_acid_sequence)
