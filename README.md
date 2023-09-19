@@ -9,7 +9,4 @@ A futásidőket különböző ábécéméretek mellett is kipróbáltam:
 ### 2-elemű ábécé
 <p align="center">
   <img src="./peldak/n30000__Sigma2.svg" width=1500>
-<\p>
-<p align="center">
-  <img width="460" height="300" src="https://picsum.photos/460/300">
 </p>
