@@ -1,9 +1,9 @@
 # Ábragenerálas
 Automatizált ábragenerálás a szakdolgozatomhoz készült implementációk futásidejéről.
-A futásidőket 3-féle ábécéméret mellett teszteltem:
-* 2: bitek,
-* 4: a DNS szekvencia 4-féle nukleobázis (citozin (C), guanin (G), adenin (A), timin (T)) sorozata,
-* 26: az angol.
+A futásidőket 3-féle ábécéméret mellett teszteltem, amiket a gyakorlati alkalmazások miatt választottam:
+* 2: 🔟bitek,
+* 4: 🧬DNS, (egy DNS szekvencia 4-féle nukleobázis (citozin (C), guanin (G), adenin (A), timin (T)) sorozata),
+* 26: 🔡az angol ábécé.
 
 **Tartalomjegyzék**
 - [Egy mintát kereső algoritmusok](#egy-mintát-kereső-algoritmusok)
