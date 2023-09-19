@@ -8,6 +8,8 @@ A futásidőket különböző ábécéméretek mellett is kipróbáltam:
 **Tartalomjegyzék**
 1. [Egy mintát kereső algoritmusok](#egy-mintát-kereső-algoritmusok)
    - [2-elemű ábécé](#2-elemű-ábécé)
+   - [4-elemű ábécé](#4-elemű-ábécé)
+   - [26-elemű ábécé](#26-elemű-ábécé)
 
 ## Egy mintát kereső algoritmusok
 <p align="center">
