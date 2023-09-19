@@ -1,10 +1,11 @@
 # Ábragenerálas
 Automatizált ábragenerálás a szakdolgozatomhoz készült implementációk futásidejéről.
-A futásidőket különböző ábécéméretek mellett is kipróbáltam:
-- 2: gyakori, hogy bitsorozatokkal tárolnak információt
-- 4: mivel a DNS szekvencia 4-féle nukleobázis (citozin (C), guanin (G), adenin (A), timin (T)) sorozata
-- 26: az angol ábécé
+A futásidőket 3-féle ábécéméret mellett teszteltem:
+* 2: bitek,
+* 4: a DNS szekvencia 4-féle nukleobázis (citozin (C), guanin (G), adenin (A), timin (T)) sorozata,
+* 26: az angol.
 
+**Tartalomjegyzék**
 - [Egy mintát kereső algoritmusok](#egy-mintát-kereső-algoritmusok)
   * [2-elemű ábécé](#2-elemű-ábécé)
   * [4-elemű ábécé](#4-elemű-ábécé)
