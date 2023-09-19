@@ -6,3 +6,5 @@ A futásidőket különböző ábécéméretek mellett is kipróbáltam:
 - 26: az angol ábécé
 
 ## Egy mintát kereső algoritmusok
+### 2-elemű ábécé
+!image[miz](./peldak/n30000__Sigma2.svg)
