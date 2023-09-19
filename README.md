@@ -5,7 +5,7 @@ A futásidőket különböző ábécéméretek mellett is kipróbáltam:
 - 4: mivel a DNS szekvencia 4-féle nukleobázis (citozin (C), guanin (G), adenin (A), timin (T)) sorozata
 - 26: az angol ábécé
 
-- [Egy mintát kereső algoritmusok](#egy-mintát-kereső-algoritmusok)
+- [Egy mintát kereső algoritmusok](#egy-mintat-kereso-algoritmusok)
   * [2-elemű ábécé](#2-elemű-ábécé)
   * [4-elemű ábécé](#4-elemű-ábécé)
   * [26-elemű ábécé](#26-elemű-ábécé)
