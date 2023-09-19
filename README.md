@@ -1,9 +1,9 @@
 # Ábragenerálas
 Automatizált ábragenerálás a szakdolgozatomhoz készült implementációk futásidejéről.
 A futásidőket 3-féle ábécéméret mellett teszteltem, amiket a gyakorlati alkalmazások miatt választottam:
-* 2: 🔟bitek,
+* 2: 🔟[bitek](https://en.wikipedia.org/wiki/Bit),
 * 4: 🧬[DNS](https://en.wikipedia.org/wiki/Nucleic_acid_sequence)
-* 26: 🔡az angol ábécé.
+* 26: 🔡[az angol ábécé](https://en.wikipedia.org/wiki/English_alphabet).
 
 **Tartalomjegyzék**
 - [Egy mintát kereső algoritmusok](#egy-mintát-kereső-algoritmusok)
