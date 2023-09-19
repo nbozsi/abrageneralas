@@ -13,36 +13,36 @@ A futásidőket különböző ábécéméretek mellett is kipróbáltam:
 
 ## Egy mintát kereső algoritmusok
 <p align="center">
-  <img src="./peldak/n30000__m50.svg" width=1500>
+  <img src="./peldak/egy_mintas_abrak/n30000__m50.svg" width=1500>
   Az algoritmusok futásideje az ábécéméret függvényében.
 </p>
 
 ### 2-elemű ábécé
 <p align="center">
-  <img src="./peldak/n30000__Sigma2.svg" width=1500>
+  <img src="./peldak/egy_mintas_abrak/n30000__Sigma2.svg" width=1500>
 </p>
 <p align="center">
-  <img src="./peldak/m100__Sigma2.svg" width=1500>
+  <img src="./peldak/egy_mintas_abrak/m100__Sigma2.svg" width=1500>
 </p>
 
 ### 4-elemű ábécé
 <p align="center">
-  <img src="./peldak/n30000__Sigma4.svg" width=1500>
+  <img src="./peldak/egy_mintas_abrak/n30000__Sigma4.svg" width=1500>
 </p>
 <p align="center">
-  <img src="./peldak/DNA.svg" width=1500>
+  <img src="./peldak/egy_mintas_abrak/DNA.svg" width=1500>
 </p>
 <p align="center">
-  <img src="./peldak/m100__Sigma4.svg" width=1500>
+  <img src="./peldak/egy_mintas_abrak/m100__Sigma4.svg" width=1500>
 </p>
 
 ### 26-elemű ábécé
 <p align="center">
-  <img src="./peldak/n30000__Sigma26.svg" width=1500>
+  <img src="./peldak/egy_mintas_abrak/n30000__Sigma26.svg" width=1500>
 </p>
 <p align="center">
-  <img src="./peldak/n120174__sigma26__Romeo.svg" width=1500>
+  <img src="./peldak/egy_mintas_abrak/n120174__sigma26__Romeo.svg" width=1500>
 </p>
 <p align="center">
-  <img src="./peldak/m100__Sigma26.svg" width=1500>
+  <img src="./peldak/egy_mintas_abrak/m100__Sigma26.svg" width=1500>
 </p>
