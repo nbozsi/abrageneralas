@@ -6,15 +6,15 @@ A futásidőket különböző ábécéméretek mellett is kipróbáltam:
 - 26: az angol ábécé
 
 **Tartalomjegyzék**
-1. [Egy mintát kereső algoritmusok](#item-one)
-   - [2-elemű ábécé](#item-one-a)
-<a id="item-one"></a>
+1. [Egy mintát kereső algoritmusok](#egy-mintát-kereső-algoritmusok)
+   - [2-elemű ábécé](#2-elemű-ábécé)
+
 ## Egy mintát kereső algoritmusok
 <p align="center">
   <img src="./peldak/n30000__m50.svg" width=1500>
   Az algoritmusok futásideje az ábécéméret függvényében.
 </p>
-<a id="item-one-a"></a>
+
 ### 2-elemű ábécé
 <p align="center">
   <img src="./peldak/n30000__Sigma2.svg" width=1500>
@@ -22,7 +22,7 @@ A futásidőket különböző ábécéméretek mellett is kipróbáltam:
 <p align="center">
   <img src="./peldak/m100__Sigma2.svg" width=1500>
 </p>
-<a id="item-one-b"></a>
+
 ### 4-elemű ábécé
 <p align="center">
   <img src="./peldak/n30000__Sigma4.svg" width=1500>
@@ -33,7 +33,7 @@ A futásidőket különböző ábécéméretek mellett is kipróbáltam:
 <p align="center">
   <img src="./peldak/m100__Sigma4.svg" width=1500>
 </p>
-<a id="item-one-c"></a>
+
 ### 26-elemű ábécé
 <p align="center">
   <img src="./peldak/n30000__Sigma26.svg" width=1500>
