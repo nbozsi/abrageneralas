@@ -10,6 +10,7 @@ A futásidőket különböző ábécéméretek mellett is kipróbáltam:
    - [2-elemű ábécé](#2-elemű-ábécé)
    - [4-elemű ábécé](#4-elemű-ábécé)
    - [26-elemű ábécé](#26-elemű-ábécé)
+2. [Több mintát kereső algoritmusok](#több-mintát-kereső-algoritmusok)
 
 ## Egy mintát kereső algoritmusok
 <p align="center">
@@ -45,4 +46,16 @@ A futásidőket különböző ábécéméretek mellett is kipróbáltam:
 </p>
 <p align="center">
   <img src="./peldak/egy_mintas_abrak/m100__Sigma26.svg" width=1500>
+</p>
+
+## Több mintát kereső algoritmusok
+### 2-elemű ábécé
+<p align="center">
+  <img src="./peldak/tobb_mintas_abrak/n_20000__Sigma_2__m_100.svg" width=1500>
+</p>
+<p align="center">
+  <img src="./peldak/tobb_mintas_abrak/n_20000__Sigma_2__k_70.svg" width=1500>
+</p>
+<p align="center">
+  <img src="./peldak/tobb_mintas_abrak/m_100__Sigma_2__k_70.svg" width=1500>
 </p>
