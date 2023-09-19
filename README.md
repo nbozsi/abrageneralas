@@ -59,3 +59,25 @@ A futásidőket különböző ábécéméretek mellett is kipróbáltam:
 <p align="center">
   <img src="./peldak/tobb_mintas_abrak/m_100__Sigma_2__k_70.svg" width=1500>
 </p>
+
+### 4-elemű ábécé
+<p align="center">
+  <img src="./peldak/tobb_mintas_abrak/n_20000__Sigma_4__m_100.svg" width=1500>
+</p>
+<p align="center">
+  <img src="./peldak/tobb_mintas_abrak/n_20000__Sigma_4__k_70.svg" width=1500>
+</p>
+<p align="center">
+  <img src="./peldak/tobb_mintas_abrak/m_100__Sigma_4__k_70.svg" width=1500>
+</p>
+
+### 26-elemű ábécé
+<p align="center">
+  <img src="./peldak/tobb_mintas_abrak/n_20000__Sigma_26__m_100.svg" width=1500>
+</p>
+<p align="center">
+  <img src="./peldak/tobb_mintas_abrak/n_20000__Sigma_26__k_70.svg" width=1500>
+</p>
+<p align="center">
+  <img src="./peldak/tobb_mintas_abrak/m_100__Sigma_26__k_70.svg" width=1500>
+</p>
