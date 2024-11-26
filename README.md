@@ -1,5 +1,5 @@
 # Ábragenerálas
-Ábrák a [szakdolgozatomhoz](https://www.math.elte.hu/thesisupload/thesisfiles/2023bsc_alkmat3y-ijakt3.pdf) készült [implementációk](https://github.com/nbozsi/mintaillesztesi_algoritmusok/tree/master/c%2B%2B_implement%C3%A1ci%C3%B3k) futásidejéről.
+Ábrák a [szakdolgozatomhoz](https://www.math.elte.hu/thesisupload/thesisfiles/2024bsc_alkmat3y-ijakt3.pdf) készült [implementációk](https://github.com/nbozsi/mintaillesztesi_algoritmusok/tree/master/c%2B%2B_implement%C3%A1ci%C3%B3k) futásidejéről.
 A futásidőket 3-féle ábécéméret mellett teszteltem, amiket az alábbi gyakorlati alkalmazások miatt választottam:
 * **2**: 🔟[bitek](https://en.wikipedia.org/wiki/Bit),
 * **4**: 🧬[DNS](https://en.wikipedia.org/wiki/Nucleic_acid_sequence)
